@@ -1,0 +1,13 @@
+1. pip install virtualenv
+2. virtualenv env
+3. .\env\Scripts\activate.ps1
+4. pip install flask
+5. npm install -g @angular/cli
+6. ng version
+7. python .\App.py
+8. ng new angular-part
+9. cd angular-part
+10. ng generate component comp
+11. ng build --base-href \static\
+
+Note: if error with running any env related command, use 'set-ExecutionPolicy unrestricted' in command shell and allow execution of all commands
